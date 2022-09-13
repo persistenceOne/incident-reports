@@ -23,6 +23,7 @@ A copy of this also exists at [google drive](https://docs.google.com/document/d/
 | Multi node setup to replicate any mainnet state to be able to resolve issues faster (may or may not be related to upgrade) | mitigation | Core-1 team | TODO |   
 | Discuss potential improvements to upgrade handler with Cosmos team | mitigation | Core-1 team | TODO |
 
+##
 ## Lessons Learned
 
 ### What went well
@@ -57,6 +58,7 @@ A copy of this also exists at [google drive](https://docs.google.com/document/d/
   Claimens (CryptoCrew), Paranorm (Paranormal Bros), theBro (Cros-nest), toschdev (SG-1), Active Nodes.
 * We did not lose any data or transactions, and the bug was recoverable.
 
+##
 ## Timeline
 
 **7th Sept:** (// GST is gulf standard time [UTC+04] )   
