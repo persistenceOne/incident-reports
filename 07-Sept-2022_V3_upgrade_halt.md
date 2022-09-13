@@ -59,7 +59,7 @@ A copy of this also exists at [google drive](https://docs.google.com/document/d/
 
 ## Timeline
 
-**7th Sept:** (// GST is gulf standard time)   
+**7th Sept:** (// GST is gulf standard time [UTC+04] )   
 20:20 GST : The Core-1 chain halts for v3 upgrade at height 7791906   
 21:09 GST : Most validators are done with the upgrade, waiting for consensus   
 Persistence team is taking halt height data backup, starts one foundation node.   
