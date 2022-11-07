@@ -120,11 +120,11 @@ evidence:
   time: "2022-11-06T12:39:19.628225786Z"
 ```
 
-21:28 GST : Team acknowledges the tombstoned validators and asked for more details   
-21:30 GST : Reason for tombstoned was validators that used the snapshots that did not preserve the `priv_validator_state.json`.   
-21:31 GST : Some validators proposed un-tombstoning of validators based on Secret Network and ChihuahuaChain   
-21:48 GST : Team confirmed and asked to wait for the next day for more information on next steps   
-21:50 GST : Team confirms that the ICA channel has been closed and will affect the lscosmos module   
+21:28 GST: Team acknowledges the tombstoned validators and asked for more details   
+21:30 GST: Reason for tombstoned was validators that used the snapshots that did not preserve the `priv_validator_state.json`.   
+21:31 GST: Some validators proposed un-tombstoning of validators based on Secret Network and ChihuahuaChain   
+21:48 GST: Team confirmed and asked to wait for the next day for more information on next steps   
+21:50 GST: Team confirms that the ICA channel has been closed and will affect the lscosmos module   
 
 
 
