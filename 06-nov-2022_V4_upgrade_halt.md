@@ -22,7 +22,7 @@ A copy of this also exists at [google drive](https://docs.google.com/document/d/
 | Action Item | Type | Owner | Bug |
 | --- | --- | --- |----|   
 | Go version sync across all validator nodes | Prevention | Core-1 team | DONE |   
-| ICA Channel Revival (Persistence - CosmosHub) | Recovery | pSTAKE Team | Initiated |   
+| Re-establish ICA Channel (Persistence - CosmosHub) | Recovery | pSTAKE Team | Initiated |   
 | Revert Tombstone Action | Recovery | Core-1 team | TBD |   
 | Monitoring script to assess the versions for all nodes on the Core-1 chain before upgrades | Prevention | Core-1 team | TODO |   
 
