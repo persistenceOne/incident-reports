@@ -15,12 +15,12 @@ A copy of this also exists at [google drive](https://docs.google.com/document/d/
 
 | Action Item | Type | Owner | Bug |
 | --- | --- | --- |----|   
-| Apply the smallest fix patches to prod. (ex. default home) | process | Core-1 team | n/a DONE |   
-| Bundle everything into code/ binary | prevention | Core-1 team | n/a |   
-| Validator upgrade instructions should be zero or basic as required by Cosmos ecosystem | prevention | Core-1 team | n/a |   
-| More multinode upgrade e2e tests | prevention | Core-1 team | TODO |   
+| Apply the smallest fix patches to prod. (ex. default home) | process | Core-1 team | DONE |   
+| Bundle everything into code/ binary | prevention | Core-1 team | DONE |   
+| Validator upgrade instructions should be zero or basic as required by Cosmos ecosystem | prevention | Core-1 team | DONE |   
+| More multinode upgrade e2e tests | prevention | Core-1 team | DONE |   
 | Add more logs to chain start and upgrade steps | mitigation | Core-1 team | TODO. |   
-| Multi node setup to replicate any mainnet state to be able to resolve issues faster (may or may not be related to upgrade) | mitigation | Core-1 team | TODO |   
+| Multi node setup to replicate any mainnet state to be able to resolve issues faster (may or may not be related to upgrade) | mitigation | Core-1 team | DONE |   
 | Discuss potential improvements to upgrade handler with Cosmos team | mitigation | Core-1 team | TODO |
 
 ##
