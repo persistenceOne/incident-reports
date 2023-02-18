@@ -82,8 +82,8 @@ go 1.19
 2385090C23C6FEE14BA26C42194F7811587D9FFBF3449A759185119757959B0D
 ```
 
-15:35 GST: Team asked all validators to stop the network officially at height 8647536   
-15:40 GST: Team started to reproduce the issue locally to confirm the error.   
+17:35 GST: Team asked all validators to stop the network officially at height 8647536   
+17:40 GST: Team started to reproduce the issue locally to confirm the error.   
 19:02 GST: Team made an announcement with detailed steps on restarting the chain from snapshots (3 various types), and build the binary again with go 1.19, published statically linked binaries to the release for v4.0.0.   
 19:03 GST: Validators started to restart the nodes with the [given instructions](https://discord.com/channels/796174129077813248/825820268231655425/1038830837631832126)   
 19:24 GST: Team stopped foundations nodes to slowdown rounds for the halt height block   
