@@ -36,8 +36,8 @@ should have tested against existing validator set. But also trigger slashing.
 ##
 ## Timeline
 
-* Apr 25, 2023 at 11:16 PM GMT+2 reported issue in Slack
-* Apr 25, 2023 at 02:11 PM GMT+2 released fixed binary
+* Apr 25, 2023 at 11:16 GMT+2 reported issue in Slack
+* Apr 25, 2023 at 14:11 GMT+2 released fixed binary
 
 ### Fixing commits
 
