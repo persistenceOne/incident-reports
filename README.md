@@ -7,3 +7,4 @@ This repository holds information on the incidents that are faced were faced by 
 ## Testnet
 
 * [25-Apr-2023 V8 testnet upgrade chain-halt](testnet/25-Apr-2023_testnet_V8_upgrade_halt.md)
+* [16-May-2023_Testnet_halt_during_Cosmovisor_setup](testnet/16-May-2023_Testnet_halt_during_Cosmovisor_setup.md)
